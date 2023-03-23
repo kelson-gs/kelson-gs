@@ -28,7 +28,7 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="icon" width="65" height="65" />
+        <img src="https://cdn-icons-png.flaticon.com/512/3379/3379166.png" alt="icon" width="65" height="65" />
       <br>React Native
     </td>
     <td align="center" width="96">
@@ -53,11 +53,11 @@
         <br>GitLab
       </td>
       <td align="center"  width="96">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="48" height="48" alt="eslint" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48" height="48" alt="eslint" />
         <br>ESlint
       </td>
       <td align="center"  width="96">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="48" height="48" alt="sqlite" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="sqlite" />
         <br>sqlite
       </td>
   </tr>

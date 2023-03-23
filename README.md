@@ -27,6 +27,14 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="icon" width="65" height="65" />
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="icon" width="65" height="65" />
+      <br>Slack
+    </td>
   </tr>
 
   <tr>
@@ -44,6 +52,14 @@
           <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
         <br>GitLab
       </td>
+      <td align="center"  width="96">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="48" height="48" alt="eslint" />
+        <br>ESlint
+      </td>
+      <td align="center"  width="96">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="48" height="48" alt="sqlite" />
+        <br>sqlite
+      </td>
   </tr>
 
   <tr>
@@ -59,6 +75,14 @@
           <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
+      <td align="center" width="96">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="figma" />
+        <br>trello
+      </td>
   </tr>
 
   <tr> 
@@ -71,10 +95,12 @@
           <br>Electron
       </td>
     <td align="center" width="96">
-      <a href="#ts">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="firebase" />
+      <br>Firebase
     </td>
   </tr>
 
@@ -93,6 +119,10 @@
       </a>
       <br>Jest
     </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="48" height="48" alt="heroku" />
+      <br>Heroku
+    </td>
   </tr>
 
   <tr>
@@ -108,6 +138,10 @@
       <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="webpack" width="40" height="40"/> </a> 
       <br>Linux
       </td>
+      <td align="center" width="96">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" height="48" alt="ruby" />
+        <br>Ruby
+      </td>
   </tr>
 
   <tr>
@@ -122,6 +156,10 @@
     <td align="center" width="96">
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
       <br>Mongo
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="48" height="48" alt="ruby" />
+       <br>Sequelize
     </td>
   </tr>
 </table>

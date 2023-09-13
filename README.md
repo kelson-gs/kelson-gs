@@ -1,9 +1,5 @@
 # Kelson Gonçalves Santos
 
-<div>
-  <img src="https://res.cloudinary.com/dup3eggmc/image/upload/v1679665486/Full_7_wlpdag.gif" alt="kelson" />
-</div>
-
 <div align="center">
   <a href="https://github.com/kelson-gs">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kelson-gs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
